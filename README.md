@@ -24,3 +24,7 @@ I'll add more and more projects as time passes. Check later to see what i added 
 - Projects completed: `0 / 50`
 - Target deadline: **December 31, 2025**
 - Updated: `07/08/2025`
+
+## Ideas
+
+Snake game, weather app, rating star app, wordle like game, tap the hog thing, password generator, password strength checker,
