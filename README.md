@@ -13,9 +13,10 @@ I'll add more and more projects as time passes. Check later to see what i added 
 | #  | Project Name                  | Status   | Link                         | Tags                    |
 |----|-------------------------------|----------|------------------------------|-------------------------|
 | 1  | Calculator                  | ✅ Done | [Calculator Repo](https://github.com/sharedfolders/50PU26-N1-Calculator) | HTML, CSS, JS |
-| 2  | Live Clock               | 🔲 Not Started | [Repo] | HTML, CSS, JS |
-| 3  | List & Notes WebApp                    | 🔲 Not Started | [Repo] | HTML, CSS, JS |
-| 4  | ...                          | Not Started | | TBD                     |
+| 3  | Rating App               | 🛠️ In Progress | [Rating App Repo](https://github.com/sharedfolders/50PU26-N2-RatingApp) | HTML, CSS, JS |
+| 4  | Live Clock               | 🔲 Not Started | [Repo] | HTML, CSS, JS |
+| 5  | List & Notes WebApp                    | 🔲 Not Started | [Repo] | HTML, CSS, JS |
+| 6  | ...                          | Not Started | | TBD                     |
 
 ---
 
