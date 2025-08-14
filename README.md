@@ -1,4 +1,14 @@
-# 50 projects until 2026
+# A little pause
+I quickly realised that, for my projects to be interesting, i lacked a lot of knowledge.
+I will finish my full stack course, and i'll come back !
+
+For the moment, i'll archive the 3 projects i did so far ! 
+
+See ya :)
+
+---
+
+# [ARCHIVED] 50 projects until 2026
 
 Welcome ! To boost my productivity (and to learn new stuff), i decided to challenge myself : **build 50 projects until 2026**.
 
